@@ -1,0 +1,6 @@
+{
+  "name": "Interactive MCP (AslanArt Custom)",
+  "description": "A modified version of the Interactive MCP that requires user permission to end and executes plans autonomously.",
+  "install": "pnpm install",
+  "run": "pnpm run start -- -t 300"
+} 
